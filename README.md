@@ -1,0 +1,2 @@
+# wordpress
+functions.php
